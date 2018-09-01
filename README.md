@@ -1,2 +1,2 @@
-# firstrepo1
-my first repo
+# firstrepo
+i dont know what the hell is going on
